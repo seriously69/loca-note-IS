@@ -1,6 +1,6 @@
 # loca_note
 
-A new Flutter project.
+A location based flutter project
 
 ## Getting Started
 
